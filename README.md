@@ -9,6 +9,8 @@
 - 工厂方法模式【factorymethod】
 - 抽象工厂模式
 - 策略模式
+- 原型模式【prototype】
+- 创建者模式【builder】
 
 ## Java基础
 

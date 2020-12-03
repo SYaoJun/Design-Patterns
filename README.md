@@ -7,10 +7,11 @@
 - 单例模式【singleton】
 - 简单工厂模式【simplefactory】
 - 工厂方法模式【factorymethod】
-- 抽象工厂模式
-- 策略模式
+- 策略模式【strategy】
 - 原型模式【prototype】
 - 创建者模式【builder】
+- 责任链模式【responsibility】
+- 模板方法模式【templatemethod】
 
 ## Java基础
 

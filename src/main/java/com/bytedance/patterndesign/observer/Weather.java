@@ -6,6 +6,7 @@ public class Weather implements Subject{
     private double temperature;
     private double pressure;
     private double humidity;
+    /*气象局管理具体的每个观察者*/
     private ArrayList<Observer> observers;
     public void setData(double temperature, double pressure, double humidity){
         this.temperature = temperature;
